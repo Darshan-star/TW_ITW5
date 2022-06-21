@@ -1,0 +1,27 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;;
+    
+}
+
+
+.hell{
+    padding-right: 20px;
+    background: rgba(0,0,0,0);
+    color:white;
+    font-size:20px;
+    font-weight:50px;
+    font-family: 'Merriweather', serif;
+    
+}
+/* 
+.Nav{
+    padding-right: 30px;
+} */
+
+.helll{
+    margin-right: 30px;
+}

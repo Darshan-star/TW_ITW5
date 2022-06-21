@@ -1,0 +1,53 @@
+.main{
+    height:23%;
+    width:80%;
+   
+    background: #ab9415;
+   
+    
+    position: absolute;
+    padding: 2%;
+ 
+}
+.cars{
+    background-color: white;
+    padding: 2%;
+    border-radius: 20px;
+    width: 80%;
+}
+
+.cars2{
+    background-color: white;
+    padding: 2%;
+    border-radius: 20px;
+  
+}
+
+.cars3{
+    background-color: black;
+    padding: 10px;
+    
+    width: 100%;
+margin-left: 0px;
+}
+
+.dvs{
+    padding-top: 1%;
+
+    margin:1%;
+    background-color: white;
+    
+}
+.dvst{
+    font-size: 11px;
+}
+.dvss{
+    padding-top: 2%;
+align-items: center;
+    margin:6px;
+    background-color: black;
+    
+}
+.dvss button{
+    border-color: black;
+}

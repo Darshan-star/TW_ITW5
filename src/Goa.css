@@ -1,0 +1,31 @@
+.yu2{
+    position: relative;
+  text-align: center;
+  color: white;
+}
+.yu3{
+    position: relative;
+  text-align: center;
+  color: white;
+}
+.yu4{
+    position: relative;
+  text-align: center;
+  color: white;
+}
+.yu5{
+    position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Merriweather', serif;
+  
+}
+
